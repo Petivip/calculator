@@ -1,0 +1,45 @@
+body{
+  background-color:grey;
+ 
+}
+.container{
+  margin-top:200px;
+  margin-left:500px;
+  margin-right: 708px;
+  
+
+}
+
+.textinput{
+  width: 290px;
+  height:50px;
+  font-size: 1.5em;
+}
+
+.btn {
+  width: 70px;
+  height: 50px;
+  font-size: 1.5em;
+  margin: 0px;
+  background-color:#BA6969;
+   color:#5E3F9B;
+   &:hover {
+    color: yellow;
+    outline: .08em solid yellow;
+    z-index: 3;
+  }
+}
+.btn1{
+    background-color: #BA2B2B;
+  }
+.btn2{
+  background-color:#B78888;
+}
+.btn3{
+  background-color:#B9A1A1;
+}
+.footer{
+  color: White;
+  margin-left: 500px;
+  font-size: 1.3em;
+}
